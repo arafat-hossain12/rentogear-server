@@ -2,8 +2,8 @@
 
 REST API for **RentoGear**, an equipment rental marketplace where owners list equipment and customers browse, book and pay for rentals. Built with Express and MongoDB.
 
-- **Live API:** https://YOUR-RENDER-URL.onrender.com
-- **Live site:** https://YOUR-VERCEL-URL.vercel.app
+- **Live API:** https://rentogear-server.onrender.com
+- **Live site:** https://rentogear-client.vercel.app
 - **Client repository:** https://github.com/arafat-hossain12/rentogear-client
 
 ## Key features
